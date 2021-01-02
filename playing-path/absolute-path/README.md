@@ -12,10 +12,14 @@ func Abs(dir string) (path string, err error)
 
 ## Examples
 
-> go run abs.go
+```
+go run abs.go
+```
 
 ![abs function](img/noargs.png)
 
-> go run abs.go ~/
+```
+go run abs.go ~/
+```
 
 ![abs-function-args](img/withargs.png)
