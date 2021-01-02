@@ -11,7 +11,7 @@ func main() {
   // check for args
 
   if len(os.Args) > 2 {
-    fmt.Println("abs: Expected 0-1 args, given", os.Args)
+    fmt.Println("abs: Expected 0-1 args, given", len(os.Args))
     return
   }
 
