@@ -1,4 +1,4 @@
-# Abs*() - Get absolute path
+# Abs() - Get absolute path
 
 Get the absolute path.
 
