@@ -22,4 +22,4 @@ go run dir.go
 go run dir.go /home
 ```
 
-![withargs](img/withargs.go)
+![withargs](img/withargs.png)
