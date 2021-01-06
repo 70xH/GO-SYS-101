@@ -1,6 +1,6 @@
-# ReadFule() - Reads the file whole at a time
+# ReadFile() - Reads the whole file at a time
 
-Reads the specified file by loading into memory. On success, returns `nil` and byte array, on failure return `EOF`.
+Reads the specified file by loading it into memory. On success, returns `nil` and a byte array, on failure returns `EOF`.
 
 ## Function
 

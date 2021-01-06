@@ -12,4 +12,4 @@
 
 ## Reading in chunks
 
-* This type of functions read chunks of the file and used the same memory allocated repeatedly. This helps in getting the information from large files or the files that cannot be processed in single go.
+* This type of functions read chunks of the file and use the same memory allocated repeatedly. This helps in getting the information from large files or the files that cannot be processed in single go.
